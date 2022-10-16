@@ -12,3 +12,5 @@ back propagation training algorithm.
 The count of the people is entered into excel sheet and this csv file is used as a
 dataset to predict the approximate crowd at a given time.
 The dataset is given to RNN algorithm to get the prediction of the crowd for the upcoming days.
+
+bcc.py file is used to get the count of the people when we input an image. And thse counts are used in the dataset and it is given as input to the crowdcount.ipynb file to get the predictions.
