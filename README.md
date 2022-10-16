@@ -11,4 +11,4 @@ readily applied to any Convolutional Neural Network (CNN) model using the standa
 back propagation training algorithm.
 The count of the people is entered into excel sheet and this csv file is used as a
 dataset to predict the approximate crowd at a given time.
-For prediciton LSTM 
+The dataset is given to RNN algorithm to get the prediction of the crowd for the upcoming days.
